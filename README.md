@@ -1,4 +1,4 @@
-ADS beginner
+Hello, World! I'm a ADS student.
 ------------
 
 I started doing the first semester of GTI, and I decided to change courses to ADS, I confess that I had no idea about the subject, but I believe that if we like it, we learn.
